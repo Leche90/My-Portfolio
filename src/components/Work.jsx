@@ -2,36 +2,31 @@ import React from "react";
 
 const projects = [
   {
-    title: "Code Bootcamp Website",
+    title: "Construction Management App",
     description: `
-      Utilized HTML5, CSS, and JavaScript to design and develop a responsive code bootcamp website, 
-      ensuring cross-browser compatibility and enhancing user engagement. 
-      Implemented inline form validation using JavaScript, ensuring accurate user input and providing dynamic error messages, 
-      improving data integrity and user experience.`,
-    image: "/images/code-bootcamp-website.jpg",
-    link: "https://github.com/sxu33", 
-    techList: ["HTML5", "CSS", "JavaScript"],
-    date: "November 2023 - December 2023"
+      Developed a responsive Construction Management System app using HTML5, CSS, PHP and React, ensuring cross-browser compatibility and an intuitive user interface. Integrated inline form validation with JavaScript to ensure accurate data input, provide real-time error messages, and improve overall data integrity and user experience.`,
+    image: "/images/CMS.png",
+    // link: "https://github.com/sxu33", 
+    techList: ["HTML5", "CSS", "React", "PHP"],
+    date: "August 2024"
   },
   {
-    title: "Movie Archive Website",
+    title: "Food App",
     description: `
-      Employed PHP and MySQL to develop a user registration and login system, 
-      ensuring secure access and user management through session handling and CAPTCHA integration. 
-      Managed dependencies with Composer and utilized Git for version control, improving application reliability and development workflow.`,
-    image: "/images/movie-archive-website.jpg",
-    link: "https://github.com/sxu33", 
+      Developed a Food App using PHP and MySQL, implementing a secure user registration and login system with session handling and CAPTCHA integration to protect user data. Streamlined dependency management with Composer and maintained version control using Git, enhancing application stability and development efficiency.`,
+    image: "/images/Food.png",
+    // link: "https://github.com/sxu33", 
     techList: ["PHP", "MySQL", "CAPTCHA", "Composer", "Git"],
     date: "March 2024 - April 2024"
   },
   {
     title: "Portfolio Website",
     description: `
-      Built a deployment pipeline using Docker and Node.js, streamlining the code delivery process and reducing deployment times. 
+      Built a deployment pipeline using Docker, and React, streamlining the code delivery process and reducing deployment times. 
       Developed an optimized web app with React, Docker, and Node.js, showcasing the ability to create, test, and deploy applications, 
       and ensuring continuous integration and delivery (CI/CD).`,
     image: "/images/portfolio-website.jpg",
-    link: "https://github.com/sxu33", 
+    // link: "https://github.com/sxu33", 
     techList: ["React", "Docker", "Node.js"],
     date: "Expected August 2024"
   }

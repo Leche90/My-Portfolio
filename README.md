@@ -1,11 +1,5 @@
 1. **Clone the repository**:
 
-   ```bash
-   git clone <repository_url>
-   cd <repository_name>
-   Install dependencies:
-   ```
-
 bash
 Copy code
 npm install

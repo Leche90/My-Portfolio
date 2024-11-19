@@ -1,8 +1,7 @@
-version: "3"
 services:
   my-portfolio:
     build: .
-    container_name: abdulai_abubakar_coding_assignmnet14
+    container_name: leche_lanzema_coding_assignment14
     ports:
       - "5575:3000"
     environment:
