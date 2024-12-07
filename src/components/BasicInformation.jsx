@@ -7,7 +7,7 @@ export default function BasicInformation() {
         <div className="flex flex-col text-center w-full mb-12">
           <h1 className="text-4xl font-medium title-font mb-4 text-white">Basic Information</h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Hi, I'm Shaozhuo Xu. I'm a web developer passionate about building interactive and user-friendly web applications.
+            Hi, I'm Abubakar Abdulai. I'm a web developer passionate about building interactive and user-friendly web applications.
           </p>
         </div>
       </div>

@@ -21,10 +21,10 @@ Build the Docker image:
 
 bash
 Copy code
-docker build -t shaozhuo_xu_coding_assignment14 .
+doker-compose up --build .
 Run the Docker container:
 
 bash
 Copy code
-docker run -p 5575:5575 shaozhuo_xu_coding_assignment14
+doker-compose up 
 Open your browser and navigate to http://localhost:5575 to see the website.
